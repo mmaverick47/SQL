@@ -1,5 +1,3 @@
-# Week 1
-
-The relational data model
+# Week 1 - The Relational Data Model
 
 Hoffer Chapter 1
