@@ -8,6 +8,6 @@ Pearson. ISBN13: 9780133544619
 
 Software used:
 SQL-Server, 
-Visio, 
+Microsoft Visio, 
 draw.io, 
-Access
+Microsoft Access
