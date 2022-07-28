@@ -1,4 +1,4 @@
-IST 659
+# IST 659
 
 Database Administration Concepts and Database Management
 
